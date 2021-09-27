@@ -8,11 +8,11 @@ BaapG
 
      Command👇
 
-     git clone https://github.com/Vretlee/RawanAttack
-     cd RawanAttack
+     git clone https://github.com/Vretlee/BaapG-Attack
+     cd BaapG-Attack
      python BaapG.py
     
 <a href="https://github.com/Vretlee/sneakphish"><img title="" src="https://github.com/Vretlee/BaapG-Attack/blob/main/.Unlimited%20Call%2BSms%20Attack%20By%20BaapG%20Krishna.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>
 </p>
 
-All Credit <a href="https://instagram.com/krish_na_2568">Krishna</a>
+Coded By<a href="https://github.com/t-dynamos">T-Dynamos</a>
