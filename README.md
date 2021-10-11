@@ -11,7 +11,7 @@
      git clone https://github.com/Elliot290/BaapG-Attack
      cd BaapG-Attack
      python BaapG.py
-     >if BaapG.py Not Working Then 👇
+     ><if BaapG.py Not Working Then 👇
      python BaapG2.py
     
 <a href="https://github.com/Vretlee/sneakphish"><img title="" src="https://github.com/Elliot290/BaapG-Attack/blob/main/.Unlimited%20Call%2BSms%20Attack%20By%20BaapG%20Krishna.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>
