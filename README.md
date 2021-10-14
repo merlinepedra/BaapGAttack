@@ -9,7 +9,7 @@
      Command👇
 
      git clone https://github.com/Elliot290/BaapGAttack
-     cd BaapG-Attack
+     cd BaapGAttack
      python BaapG.py
      >if BaapG.py Not Working Then 👇
      python BaapG2.py
