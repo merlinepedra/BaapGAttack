@@ -11,8 +11,7 @@
      git clone https://github.com/Elliot290/BaapGAttack
      cd BaapGAttack
      python BaapG.py
-     >if BaapG.py Not Working Then 👇
-     python BaapG2.py
+     
     
 <a href="https://github.com/Vretlee/CamPhish"><img title="" src="https://raw.githubusercontent.com/T-Dynamos/T-Dynamos/main/bin/IMG_20211001_131953.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>
 </p>
