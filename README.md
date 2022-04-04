@@ -12,6 +12,7 @@
      cd BaapGAttack
      python BaapG.py
      
+     👆👆👆This Is Mass Bombing
      
      if not working Then use
      
