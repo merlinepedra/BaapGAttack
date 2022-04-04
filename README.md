@@ -13,6 +13,11 @@
      python BaapG.py
      
      
+     if not working Then use
+     
+     chmod +x BaapG
+     ./BaapG
+     
 
 If BaapG.py not working then use BaapG2.py
 
