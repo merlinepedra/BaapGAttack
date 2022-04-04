@@ -10,8 +10,8 @@
 
      git clone https://github.com/Elliot290/BaapGAttack
      cd BaapGAttack
-     chmod +x BaapG
-     ./BaapG
+     python BaapG.py
+     
      
 
 If BaapG.py not working then use BaapG2.py
