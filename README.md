@@ -19,7 +19,7 @@
      chmod +x BaapG
      ./BaapG
      
-<a href="https://baapg-attack.ezyro.com">BaapG-Attack Website</a>
+<a href="http://baapg-attack.unaux.com">BaapG-Attack Website</a>
 
 If BaapG.py not working then use BaapG2.py
 
