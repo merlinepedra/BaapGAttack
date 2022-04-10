@@ -14,7 +14,7 @@
      
      👆👆👆This Is Mass Bombing
      
-     if not working Then use
+     if It's not working Then use
      
      chmod +x BaapG
      ./BaapG
