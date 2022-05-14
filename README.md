@@ -1,4 +1,4 @@
-Updated 9-May-2022
+Use All Python Script (./BaapG, BaapG.py, BaapG2.py
 
 # BaapG-Attack
 <a href="http://baapg.github.io">BaapG</a>
