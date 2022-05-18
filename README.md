@@ -1,4 +1,5 @@
 Note- 👇
+SMS Not working, fix soon
 
 Use All Python Script 
 (./BaapG, BaapG.py, BaapG2.py) 
