@@ -1,8 +1,3 @@
-Note- 👇
-<h5>SMS Not Working, Will be Fixed Soon</h5>
-
-Use All Python Script 
-(./BaapG, BaapG.py, BaapG2.py) 
 
 # BaapG-Attack
 <a href="http://baapg.github.io">BaapG</a>
