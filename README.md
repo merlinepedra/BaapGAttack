@@ -1,4 +1,4 @@
-
+   9 AM - 3 PM
 # BaapG-Attack
 <a href="http://baapg.github.io">BaapG</a>
 
