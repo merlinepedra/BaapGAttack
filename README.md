@@ -1,4 +1,4 @@
-V
+Tap Y/N = N
 # BaapG-Attack
 <a href="http://baapg.github.io">BaapG</a>
 
