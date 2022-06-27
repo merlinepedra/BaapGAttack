@@ -1,4 +1,4 @@
-Tap Y/N = N
+ Tap Y/N = N
 # BaapG-Attack
 <a href="http://baapg1.github.io">BaapG</a>
 
