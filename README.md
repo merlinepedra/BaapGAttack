@@ -28,5 +28,5 @@ If BaapG.py not working then use BaapG2.py
 <a href="https://baapg.github.io"><img title="" src="https://github.com/Elliot290/BaapG-Attack/blob/main/.Unlimited%20Call%2BSms%20Attack%20By%20BaapG%20Krishna.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>
 </p>
 
-Coded By <a href="https://github.com/tdynamos">T-Dynamos</a>
+Coded By <a href="https://github.com/t-dynamos">T-Dynamos</a>
 <a href="https://instagram.com/krish_na_2568">BaapG</a>
