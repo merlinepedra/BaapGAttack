@@ -1,9 +1,7 @@
 Tap Y/N = N
 Video <a href="https://youtu.be/nKTK_a5-N90">YouTube</a>
 
-<br>Note 👇</br>
-<br>Koi Mc Api Chori Kar Rha Hai Isliye Tool Hi Banned
-</br>Ab Chori Karna
+Donate Me 
 
 # BaapG-Attack
 <a href="http://baapg1.github.io">BaapG</a>
