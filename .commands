@@ -6,4 +6,4 @@ git clone https://github.com/Elliot290/BaapGAttack
 
 cd BaapGAttack
 
-python BaapG2.py
+python BaapG.py
